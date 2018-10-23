@@ -1,0 +1,3 @@
+rootProject.name = 'hijup'
+
+include ':app'
